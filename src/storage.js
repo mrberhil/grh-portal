@@ -1,7 +1,7 @@
 // ══════════════════════════════════════════════════════════════
 // CONFIGURATION PRIVÉE GOOGLE SHEET
 // ══════════════════════════════════════════════════════════════
-export const GOOGLE_SHEET_WEBHOOK_URL = 'https://script.google.com/macros/s/AKfycbxZEJ9Lk5E0Jwk6QmvlVK_az2uE_h02Xjhbte1Bi8FXzCrM2ixYq2K-_kv1B9eMYoTc/exec';
+export const GOOGLE_SHEET_WEBHOOK_URL = 'https://script.google.com/macros/s/AKfycbyX6-GRoL3PCRvJ3tAfFapcC8-HjJoG8dEaN4Sc9tWHFx9dogDV1qA_093RtZyac2h1Wg/exec';
 
 // Envoi direct et invisible vers Google Sheets
 export async function sendToGoogleSheets(data) {
